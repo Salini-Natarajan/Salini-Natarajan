@@ -1,6 +1,6 @@
 # Hi, I'm Salini N 👋
 
-**AIML Engineer in Training** · RAG & Agentic AI Builder · NCC Silver Medalist · Seeking Internship 2026
+**AIML Engineer in Training** 
 
 > *"I don't just learn AI — I build with it."*
 
@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 
-I'm a final-year **B.E. CSE (AIML)** student at **KPR Institute of Engineering and Technology, Coimbatore**, specializing in LLMs, Retrieval-Augmented Generation, and agentic AI systems.
+I'm a **B.E. CSE (AIML)** student at **KPR Institute of Engineering and Technology, Coimbatore**, specializing in LLMs, Retrieval-Augmented Generation, and agentic AI systems.
 
 I build real, working AI products — from an interview engine that reads your resume and grills you on it, to a SaaS tool that formats academic manuscripts in seconds. Currently exploring **multi-agent orchestration** and **on-premise LLM deployment**.
 
